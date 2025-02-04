@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: Git allows us a streamlined way to make changes to our code(and back up
+our code) that us, the instructors, and our groupmates can see.  This is also
+good practice for when we use Git at a job in the future.
