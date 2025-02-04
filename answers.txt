@@ -14,3 +14,9 @@ data around what species are co-habitating, what the current state of their
 habitat is like, and new births/deaths of the species.  Data science can be
 applied to every field.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves the commit history(and their order) of both branches.
+Rebasing rewrites the commit history to be one history, which is cleaner, but
+may not preserve the order the commits happened on the different branches.
+
