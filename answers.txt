@@ -1,0 +1,8 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to work done in Conservation.
+For example: A non-profit organization that wants to keep close watch on
+endangered species and their habitats may use sensory technology to collect
+data around what species are co-habitating, what the current state of their
+habitat is like, and new births/deaths of the species.  Data science can be
+applied to every field.
