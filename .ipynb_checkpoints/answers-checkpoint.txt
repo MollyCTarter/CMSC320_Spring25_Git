@@ -1,0 +1,31 @@
+
+Q1: Why might we consider using Git?
+
+Answer: Git allows us a streamlined way to make changes to our code(and back up
+our code) that us, the instructors, and our groupmates can see.  This is also
+good practice for when we use Git at a job in the future.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to work done in Conservation.
+For example: A non-profit organization that wants to keep close watch on
+endangered species and their habitats may use sensory technology to collect
+data around what species are co-habitating, what the current state of their
+habitat is like, and new births/deaths of the species.  Data science can be
+applied to every field.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves the commit history(and their order) of both branches.
+Rebasing rewrites the commit history to be one history, which is cleaner, but
+may not preserve the order the commits happened on the different branches.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to having a more chill semester than last.  I made
+it through 330 and 351, and I am now taking courses that I want to take.  I look
+forward to learning applicable skills for a job in this class, and I am
+excited to finally be using Python in a CMSC course.  I have a non-technical
+job right now at a company based in DC, and I am actually trying to
+investigate if I can get a data science internship for the summer with them,
+and potentially turn that into a full-time job come December.
